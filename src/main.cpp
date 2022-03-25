@@ -36,6 +36,12 @@ int featureFromFeature1()
     return 0;
 }
 
+int featureFromFeature2()
+{
+    std::cout << "sugma\n";
+    return 0;
+}
+
 int main()
 {
     std::cout << "Hewwo! owo\n";
