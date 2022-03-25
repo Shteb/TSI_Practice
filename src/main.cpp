@@ -6,6 +6,12 @@ int Main2()
     return 0;
 }
 
+int Main3()
+{
+    std::cout << "ligma\n";
+    return 0;
+}
+
 int feature2()
 {
     std::cout << "ligma\n";
