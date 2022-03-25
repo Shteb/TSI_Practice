@@ -12,6 +12,12 @@ int Main3()
     return 0;
 }
 
+int Main4()
+{
+    std::cout << "ligma\n";
+    return 0;
+}
+
 int feature2()
 {
     std::cout << "ligma\n";
