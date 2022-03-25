@@ -18,12 +18,6 @@ int featurefrommain1()
     return 0;
 }
 
-int featureFromFeature1()
-{
-    std::cout << "sugma\n";
-    return 0;
-}
-
 int main()
 {
     std::cout << "Hewwo! owo\n";
