@@ -1,5 +1,11 @@
 #include <iostream>
 
+int Main2()
+{
+    std::cout << "ligma\n";
+    return 0;
+}
+
 int feature2()
 {
     std::cout << "ligma\n";
