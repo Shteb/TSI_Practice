@@ -12,7 +12,11 @@ int feature1()
     return 0;
 }
 
+<<<<<<< HEAD
 int featureInFeature1()
+=======
+int featurefrommain1()
+>>>>>>> main
 {
     std::cout << "sugma\n";
     return 0;
