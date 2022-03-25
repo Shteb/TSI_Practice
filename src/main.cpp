@@ -18,6 +18,12 @@ int feature2()
     return 0;
 }
 
+int feature3()
+{
+    std::cout << "ligma\n";
+    return 0;
+}
+
 int feature1()
 {
     std::cout << "sugma\n";
